@@ -1,0 +1,5 @@
+SWE40006 Task 4.4 Processing Result
+===================================
+Lines: 4
+Words: 33
+Characters: 239

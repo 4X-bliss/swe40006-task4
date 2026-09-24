@@ -1,0 +1,4 @@
+SWE40006 Software Deployment and Evolution.
+Task 4.4 demonstrates a containerised non-web application.
+The application reads data from persistent host storage.
+Docker processes the input and writes the result back to the mounted directory.
